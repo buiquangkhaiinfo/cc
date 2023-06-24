@@ -379,7 +379,7 @@ function CheckFps() {
 }
 // TIEU SU TYPE TEXT
 let typed = new Typed(".GioiThieu", {
-  strings: ["Hi my name is AnhKhoa","Hey brother, I'm a Developer.", "I like website design =]]"],
+  strings: ["Hi my name is QuangKhai","Hello, I'm a Designer.", "I like design photoshop or website 🚀"],
   typeSpeed: 95,
   backSpeed: 75,
   loop: true
