@@ -362,7 +362,7 @@ document.head.appendChild(style);
               });
             });
 // USER NAME + GIF
-document.getElementById("userName").innerHTML = 'Bùi Quang Khải <img src="https://i.imgur.com/4Ppe8mq.gif" alt="https://i.imgur.com/4Ppe8mq.gif" style="height: 40px;"> alt="GIF">';
+document.getElementById("userName").innerHTML = 'Bùi Quang Khải <img src="https://i.imgur.com/4Ppe8mq.gif" alt="https://i.imgur.com/4Ppe8mq.gif" style=" width="17"height: 17px;">
 // CHECK FPS
 var fps = document.getElementById("fps");
 var startTime = Date.now();
