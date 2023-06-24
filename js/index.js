@@ -23,7 +23,7 @@
   VietKhanhProtect();
 })();
 // ABOUT ME
-document.getElementById("VietKhanhAbout_1").innerHTML = 'CheckScamDls.info is a free source code sharing blog with quality and diverse content, we want to become a trusted destination for the programming community.';
+document.getElementById("VietKhanhAbout_1").innerHTML = 'AnhKhoaDev.Site is a free source code sharing blog with quality and diverse content, we want to become a trusted destination for the programming community.';
 // FOOTER
 const footerElement = document.createElement("footer");
 footerElement.classList.add("Cuoi", "Trang");
@@ -37,7 +37,7 @@ aElement.style.textDecoration = "none";
 aElement.href = "//facebook.com/VietKhanh.User";
 const uElement = document.createElement("u");
 uElement.style.color = "aliceblue";
-uElement.textContent = "Quang Khai ♡";
+uElement.textContent = "Anh Khoa ♡";
 const strongElement = document.createElement("strong");
 strongElement.textContent = "All rights reserved - © 2023";
 aElement.appendChild(uElement);
@@ -361,8 +361,8 @@ document.head.appendChild(style);
                 }
               });
             });
-// USER NAME + GIF
-document.getElementById("userName").innerHTML = 'Bùi Quang Khải <img src="https://i.imgur.com/4Ppe8mq.gif" alt="https://i.imgur.com/4Ppe8mq.gif" style=" width="17"height: 17px;">
+// USER NAME + TÍCH XANH
+document.getElementById("userName").innerHTML = 'Trần Anh Khoa <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/512px-Twitter_Verified_Badge.svg.png" width="17" height="17" alt="Tích Xanh">';
 // CHECK FPS
 var fps = document.getElementById("fps");
 var startTime = Date.now();
@@ -379,7 +379,7 @@ function CheckFps() {
 }
 // TIEU SU TYPE TEXT
 let typed = new Typed(".GioiThieu", {
-  strings: ["Hi my name is QuangKhai","Hello, I'm a Designer.", "I like design photoshop or website 🚀"],
+  strings: ["Hi my name is AnhKhoa","Hey brother, I'm a Developer.", "I like website design =]]"],
   typeSpeed: 95,
   backSpeed: 75,
   loop: true
@@ -423,34 +423,34 @@ function ShowToast() {
 
 function Youtube() {
   setTimeout(function() {
-    window.open('https://www.youtube.com/channel/UCQXE_a2_9CidqRImwnvXyYg', '_blank')},
+    window.open('https://youtube.com/@khoadpsvip5936', '_blank')},
   100);
 }
 function Facebook() {
   setTimeout(function() {
-    window.open('https://www.facebook.com/buiquangkhai.user4', '_blank')},
+    window.open('https://www.facebook.com/profile.php?id=100090871542194&mibextid=LQQJ4d', '_blank')},
   100);
 }
 function Discord() {
   setTimeout(function() {
-    window.open('buiquangkhai#6619', '_blank')},
+    window.open('https://dsc.bio/WusVietKhanh', '_blank')},
   100);
 }
 function Instagram() {
   setTimeout(function() {
-    window.open('https://instagram.com/buiquangkhai.user4/', '_blank')},
+    window.open('https://instagram.com/khoatran926/', '_blank')},
   100);
 }
 function HomeVietKhanh() {
   Swal.fire({
-    title: '𝑻𝙝𝒐̂𝙣𝒈 𝑩𝙖́𝒐 !',
-    text: '=>> 𝘾𝙖̉𝙢 𝙊̛𝙣 𝘽𝙖̣𝙣 Đ𝙖̃ 𝙂𝙝𝙚́ 𝙏𝙝𝙖̆𝙢 𝙒𝙚𝙗𝙨𝙞𝙩𝙚 𝘾𝙪̉𝙖 𝙆𝙝𝙖̉𝙞 🐬 <<=',
+    title: '𝙉𝙤𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙞𝙤𝙣 !',
+    text: '=>> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙃𝙪𝙣𝙣𝙞𝙚 𝘽𝙖𝙘𝙠 𝙏𝙤 𝙏𝙝𝙚 𝙃𝙤𝙢𝙚𝙋𝙖𝙜𝙚 🐬 <<=',
     showConfirmButton: false
   });
 }
 const toastDiv = document.createElement('div');
 toastDiv.id = 'Toast';
-toastDiv.textContent = '𝘿𝙚𝙨𝙞𝙜𝙣 𝙗𝙮 𝑸𝙪𝒂𝙣𝒈𝙆𝒉𝙖𝒊 🚀';
+toastDiv.textContent = '𝘿𝙚𝙨𝙞𝙜𝙣 𝙗𝙮 𝘼𝙣𝙝𝙆𝙝𝙤𝙖 =))';
 document.body.appendChild(toastDiv);var maxtheard;
 var testurl;
 var lsat_date = 0;
@@ -755,4 +755,3 @@ function noisong() {
 }
 checkip_address();
 noisong();
-
