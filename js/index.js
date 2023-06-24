@@ -421,9 +421,9 @@ function ShowToast() {
 	setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
   }
 
-function Zalo() {
+function Youtube() {
   setTimeout(function() {
-    window.open('https://zalo.me/0352876128', '_blank')},
+    window.open('https://www.youtube.com/channel/UCQXE_a2_9CidqRImwnvXyYg', '_blank')},
   100);
 }
 function Facebook() {
@@ -431,9 +431,9 @@ function Facebook() {
     window.open('https://www.facebook.com/buiquangkhai.user4', '_blank')},
   100);
 }
-function TikTok() {
+function Discord() {
   setTimeout(function() {
-    window.open('https://www.tiktok.com/@05th5.208', '_blank')},
+    window.open('buiquangkhai#6619', '_blank')},
   100);
 }
 function Instagram() {
