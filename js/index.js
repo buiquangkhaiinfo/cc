@@ -438,7 +438,7 @@ function Discord() {
 }
 function Instagram() {
   setTimeout(function() {
-    window.open('https://instagram.com/buiquangkhaiuser4/', '_blank')},
+    window.open('https://instagram.com/buiquangkhai.user4/', '_blank')},
   100);
 }
 function HomeVietKhanh() {
