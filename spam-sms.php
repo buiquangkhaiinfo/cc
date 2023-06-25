@@ -19,10 +19,10 @@ $_SESSION['reload_count'] = $reload_count;
 ?>
  <!--
     ║══════════════════════════════════════════════════║
-    ║ * Designer and Developer website by bú liếm vn.. ║ 
-    ║ * tao là trùm bú liếm vn .............           ║
+    ║ * Designer and Developer website by Quang Khải.. ║ 
+    ║ * I Am Designer .............                    ║
     ║ * @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@             ║
-    ║ * nguyễn nhật anh nhìn j xem sex ko mày ????.    ║
+    ║ * Bùi Quang Khải có dz không???.                 ║
     ║══════════════════════════════════════════════════║
 -->
 <!DOCTYPE html>
@@ -78,7 +78,7 @@ $_SESSION['reload_count'] = $reload_count;
             </div>
             <div class="nk-header-brand">
               <a href="/" class="logo-link text-base">
-                <img src="https://i.imgur.com/W0KXZjv.png" class="hide-mb-sm" />Công Cụ trị mõm </a>
+                <img src="https://i.imgur.com/W0KXZjv.png" class="hide-mb-sm" />Công Cụ Trị Mõm </a>
             </div>
             <div class="nk-header-tools nk-header-menu" data-content="headerNav">
               <div class="nk-header-mobile">
@@ -244,9 +244,9 @@ $_SESSION['reload_count'] = $reload_count;
                     <div class="nk-footer-wrap">
                         <div class="nk-footer-copyright">
                             <font style="vertical-align: inherit;">
-                                <font style="vertical-align: inherit;">© 2023 Power by bú liếm vn 💚</font>
+                                <font style="vertical-align: inherit;">All rights reserved - © 2023 💚</font>
                                 <br />
-                                <font style="vertical-align: inherit;">Tham gia nhóm để nhận thông báo <a href="//zalo.me/g/zxqlfs050" ><u>Tại đây</u></a></font>
+                                <font style="vertical-align: inherit;">Liên Hệ Zalo Nếu Có Vấn Đề <a href="//https://zalo.me/0352876128" ><u>Tại đây</u></a></font>
                             </font>
                         </div>
                     </div>
