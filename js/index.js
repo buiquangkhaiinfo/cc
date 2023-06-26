@@ -390,6 +390,9 @@ const VietKhanh_List = [
 "https://khaidzs1tg.000webhostapp.com/y2mate.com%20-%20%C4%90I%20V%E1%BB%80%20NH%C3%80%20%20%C4%90en%20%20Justatee%20LKT%20Remix%20Offical%20Music%20Wave.mp3",
 "https://khaidzs1tg.000webhostapp.com/y2mate.com%20-%20H%E1%BA%B9n%20Em%20%E1%BB%9E%20L%E1%BA%A7n%20Y%C3%AAu%20Th%E1%BB%A9%202%20%20Nguyenn%20x%20%C4%90%E1%BA%B7ng%20Tu%E1%BA%A5n%20V%C5%A9%20Duzme%20Remix%20%20Audio%20Lyrics.mp3",
 "https://khaidzs1tg.000webhostapp.com/y2mate.com%20-%20ANH%20T%E1%BB%B0%20DO%20NH%C6%AFNG%20C%C3%94%20%C4%90%C6%A0N%20%20TRUNG%20QU%C3%82N%20x%20%C4%90%E1%BA%A0T%20G%20%20Lofi%20by%20Nguyenn%20%20V%C3%AC%20anh%20l%C3%A0%20ai%20th%E1%BA%BF%20em%20em%20%C3%A0.mp3",
+"https://khaidzcute.000webhostapp.com/y2mate.com%20-%20H%E1%BB%93i%20%E1%BB%A8c%20Ta%20%C4%90%C3%A3%20Y%C3%AAu%20%20Linh%20H%C6%B0%C6%A1ng%20Luz%20Duzme%20Remix%20%20Ch%E1%BA%B3ng%20bi%E1%BA%BFt%20anh%20%C4%91ang%20n%C6%A1i%20n%C3%A0oNh%E1%BA%A1c%20HOT%20Tik%20Tok.mp3",
+"https://khaidzcute.000webhostapp.com/y2mate.com%20-%20Nothin%20On%20Me%20%20Leah%20Marie%20Perez%20Duzme%20Remix%20%20Nh%E1%BA%A1c%20HOT%20Trend%20Tik%20Tok%202023.mp3",
+"https://khaidzcute.000webhostapp.com/y2mate.com%20-%201%20Ph%C3%BAt%20%20Andiez%20CAO%20MIX.mp3",
 ];
 let index = parseInt(localStorage.getItem('currentAudioIndex')) || Math.floor(Math.random() * VietKhanh_List.length);
 const audio = new Audio(VietKhanh_List[index]);
