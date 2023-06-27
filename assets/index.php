@@ -4,7 +4,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="keywords" content="Bootstrap Theme, Freebies, Dashboard, MIT license">
-		<meta name="description" content="Sì Pam SMS ">
+		<meta name="description" content="Spam SMS ">
 		<meta name="author" content="htmlstream.com">
 		<link rel="shortcut icon" href="https://upanh.cf/v4tlnc95ym.jpg" type="image/x-icon">
 		<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
@@ -48,18 +48,18 @@
 					</header>
 
 				</div>
-			</aside>		<title>Tool Spam Sms - Call By DIGORY</title>
+			</aside>		<title>Tool Spam Sms - Call By Bùi Quang Khải</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="keywords" content="Bootstrap Theme, Freebies, Dashboard, MIT license">
-		<meta name="description" content="Uy tín vãi ò">
+		<meta name="description" content="Desinge Website By Quang Khải">
 		<meta name="author" content="htmlstream.com">
 		<link rel="shortcut icon" href="https://i.imgur.com/6SrPEkE.jpg" type="image/x-icon">
 		<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
-	  <link rel="stylesheet" href="assets/vendor/font-awesome/css/all.min.css">
-		<link rel="stylesheet" href="assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
-		<link rel="stylesheet" href="assets/css/theme.css">
+	  <link rel="stylesheet" href="/vendor/font-awesome/css/all.min.css">
+		<link rel="stylesheet" href="/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
+		<link rel="stylesheet" href="/css/theme.css">
 <div class="u-content">
 				<div class="u-body">
 				    
@@ -137,15 +137,15 @@
 </footer>
 
 </main>
-	<script src="/assets/vendor/jquery/dist/jquery.min.js"></script>
-	<script src="/assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
-	<script src="/assets/vendor/popper.js/dist/umd/popper.min.js"></script>
-	<script src="/assets/vendor/bootstrap/bootstrap.min.js"></script>
-	<script src="/assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
-	<script src="/assets/vendor/chart.js/dist/Chart.min.js"></script>
-	<script src="/assets/js/sidebar-nav.js"></script>
-	<script src="/assets/js/main.js"></script>
-	<script src="/assets/js/dashboard-page-scripts.js"></script>
+	<script src="/vendor/jquery/dist/jquery.min.js"></script>
+	<script src="/vendor/jquery-migrate/jquery-migrate.min.js"></script>
+	<script src="/vendor/popper.js/dist/umd/popper.min.js"></script>
+	<script src="/vendor/bootstrap/bootstrap.min.js"></script>
+	<script src="/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+	<script src="/vendor/chart.js/dist/Chart.min.js"></script>
+	<script src="/js/sidebar-nav.js"></script>
+	<script src="/js/main.js"></script>
+	<script src="/js/dashboard-page-scripts.js"></script>
 <script>(function(){var js = "window['__CF$cv$params']={r:'7ce57a83ed5c20fb',m:'vk.LI4iV8LuCMZOIdiXW0tbzNsgKsaQvYBePJM.lXVs-1685266222-0-AZFYJoD7GdYXnBEzp6V0Ya6d4OI0NM4X8nhYN60pgoXu',u:'/cdn-cgi/challenge-platform/h/b'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon="{&quot;rayId&quot;:&quot;7ce57a83ed5c20fb&quot;,&quot;version&quot;:&quot;2023.4.0&quot;,&quot;r&quot;:1,&quot;token&quot;:&quot;26149152f70b4e78afd2265a32997860&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
    
     
