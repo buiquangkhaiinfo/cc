@@ -84,7 +84,7 @@
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col-12">
-                    <form action="https://checkscamdls.info/assets/spam.php" method="post">
+                    <form action="spam.php" method="post">
 <div class="form-group row">
                         <label class="col-sm-12 col-md-2 col-form-label">Số điện thoại</label>
                         <div class="col-sm-12 col-md-10">
